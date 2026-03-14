@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Dramaturgy",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-14T14:38:40.559427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Dramaturgy_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_Dramaturgy_Eve.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_Dramaturgy_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/04_Dramaturgy_Eve.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/05_Dramaturgy_Eve.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/06_Dramaturgy_Eve.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dramaturgy (Live Film Ver.)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_Dramaturgy_(Live_Film_Ver.)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dramaturgy - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_Dramaturgy_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve\u0000Hatsune Miku",
+      "has_synced": true,
+      "path": "select/09_Dramaturgy_Eve\u0000Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dramaturgy (feat. Hatsune Miku)",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/10_Dramaturgy_(feat._Hatsune_Miku)_Eve.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/11_Dramaturgy_Eve_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドラマツルギー - Dramaturgy (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/12_ドラマツルギー_-_Dramaturgy_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Eve - Dramaturgy",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/13_Eve_-_Dramaturgy_Eve.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dramaturgy",
+      "artist": "Eve feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/14_Dramaturgy_Eve_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dramaturgy",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_Dramaturgy_Eve.txt"
+    }
+  ]
+}
